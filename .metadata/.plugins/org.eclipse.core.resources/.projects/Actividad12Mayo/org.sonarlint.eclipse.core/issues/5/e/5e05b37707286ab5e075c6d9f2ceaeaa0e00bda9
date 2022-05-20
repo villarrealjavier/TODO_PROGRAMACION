@@ -1,0 +1,15 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8—ä×¾‹0H€SRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ8—ä×¾‹0HÿRRMAJORZ
+CODE_SMELL
+z
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(İãÛ‚8—ä×¾‹0HıRRBLOCKERZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‰ôéÜ8—ä×¾‹0HSRMAJORZ
+CODE_SMELL
+r
+java:S1118	":Add a private constructor to hide the implicit public one.(ÈÂ¾”úÿÿÿÿ8—ä×¾‹0HşRRMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ñïô¾‹0H—SRMINORZ
+CODE_SMELL

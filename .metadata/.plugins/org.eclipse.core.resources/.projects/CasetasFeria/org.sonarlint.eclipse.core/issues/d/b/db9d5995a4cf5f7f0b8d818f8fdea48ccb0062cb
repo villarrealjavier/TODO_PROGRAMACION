@@ -1,0 +1,15 @@
+
+d
+java:S2755 "3Disable access to external entities in XML parsing.(ð¨ºîH“TRBLOCKERZVULNERABILITY
+j
+java:S2130,"9Use "Integer.parseInt" for this string-to-int conversion.(ñË™×ÿÿÿÿÿH”TRMINORZ
+CODE_SMELL
+|	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÒË®H•TRMINORZ
+CODE_SMELL
+b
+java:S3740J"/Provide the parametrized type for this generic.(ºèä8‰“ñÁ‹0H–TRMAJORZ
+CODE_SMELL
+i	java:S106>"9Replace this use of System.out or System.err by a logger.(óÌË­øÿÿÿÿH—TRMAJORZ
+CODE_SMELL
+|	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„©¨ÂH˜TRMINORZ
+CODE_SMELL

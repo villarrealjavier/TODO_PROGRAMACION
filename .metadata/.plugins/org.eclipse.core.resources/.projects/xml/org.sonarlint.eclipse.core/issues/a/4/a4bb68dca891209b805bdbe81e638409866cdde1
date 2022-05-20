@@ -1,0 +1,16 @@
+
+v
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÏÍŒæ8®·ä½‹0HªRRBLOCKERZBUG
+a
+java:S3740"/Provide the parametrized type for this generic.(¶ÛÚ_8÷åÜ½‹0HüQRMAJORZ
+CODE_SMELL
+r	java:S899"BDo something with the "boolean" value returned by "createNewFile".(»¨šãøÿÿÿÿ8®·ä½‹0H«RRMINORZBUG
+Z
+java:S1481"'Remove this unused "fr" local variable.(ÏÍŒæ8®·ä½‹0H¬RRMINORZ
+CODE_SMELL
+i
+java:S1854"6Remove this useless assignment to local variable "fr".(ÏÍŒæ8®·ä½‹0H®RRMAJORZ
+CODE_SMELL
+r
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8‹úò½‹0H¯RRMINORZ
+CODE_SMELL

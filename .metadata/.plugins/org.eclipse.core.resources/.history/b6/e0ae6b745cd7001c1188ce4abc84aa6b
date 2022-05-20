@@ -1,0 +1,72 @@
+package main.java.model;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Objects;
+
+public class Temporada {
+	private String nombreTemporada;
+	private List<String> capitulos;
+	private Integer sumaOpiniones;
+	private Integer numeroOpiniones;
+	
+	
+	public Temporada() {
+		capitulos= new ArrayList<>();
+	}
+	
+	public void annadirCapitulo(String nombre) {
+		this.capitulos.add(nombre);
+	}
+	public void eliminarCapitulo(String nombre) {
+		if (this.capitulos.contains(nombre)) {
+			this.capitulos.remove(nombre);
+		}
+	}
+	
+	public void valorar(Integer numero) {
+		
+	}
+	
+	public void annadirCapituloDespues(String nombre, String cadena) {
+		
+	}
+	
+	public String primerCapituloQueContieneEstaPalabra(String palabra) {
+		
+		
+		return null;
+	}
+	
+	public Double getNotaMedia() {
+		
+		
+		return null;
+	}
+
+	@Override
+	public String toString() {
+		return "Temporada [nombreTemporada=" + nombreTemporada + ", capitulos=" + capitulos + ", sumaOpiniones="
+				+ sumaOpiniones + ", numeroOpiniones=" + numeroOpiniones + "]";
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(capitulos, nombreTemporada, numeroOpiniones, sumaOpiniones);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Temporada other = (Temporada) obj;
+		return Objects.equals(capitulos, other.capitulos) && Objects.equals(nombreTemporada, other.nombreTemporada)
+				&& Objects.equals(numeroOpiniones, other.numeroOpiniones)
+				&& Objects.equals(sumaOpiniones, other.sumaOpiniones);
+	}
+	
+}

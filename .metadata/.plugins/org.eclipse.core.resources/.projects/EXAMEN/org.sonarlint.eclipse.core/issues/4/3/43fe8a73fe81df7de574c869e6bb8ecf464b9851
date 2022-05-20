@@ -1,0 +1,22 @@
+
+e
+java:S2864a"4Iterate over the "entrySet" instead of the "keySet".(™çíüûÿÿÿÿHÜURMAJORZ
+CODE_SMELL
+[
+java:S3740`"/Provide the parametrized type for this generic.(¶§èHİURMAJORZ
+CODE_SMELL
+D
+java:S1700"Rename field "historial"(ğ»¹ÜHŞURMAJORZ
+CODE_SMELL
+`
+java:S3740G"/Provide the parametrized type for this generic.(Ô’ğÛüÿÿÿÿHßURMAJORZ
+CODE_SMELL
+\
+java:S1172"0Remove this unused method parameter "historial".(œÃıHàURMAJORZ
+CODE_SMELL
+`
+java:S3740H"/Provide the parametrized type for this generic.(Ø–¯ûıÿÿÿÿHâURMAJORZ
+CODE_SMELL
+y
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(œ€—ºÿÿÿÿÿHãURMAJORZ
+CODE_SMELL

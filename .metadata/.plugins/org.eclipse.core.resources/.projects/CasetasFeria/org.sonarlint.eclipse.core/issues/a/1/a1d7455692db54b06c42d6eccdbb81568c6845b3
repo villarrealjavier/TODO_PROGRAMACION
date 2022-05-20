@@ -1,0 +1,13 @@
+
+~	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èİ²ñÿÿÿÿÿH¯SRMINORZ
+CODE_SMELL
+y	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÍâH±SRMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‚¢ÓşÿÿÿÿH°SRMINORZ
+CODE_SMELL
+ƒ	java:S116"SRename this field "id_calle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¼Ÿ—ÿÿÿÿÿH®SRMINORZ
+CODE_SMELL
+|	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÍâH­SRMINORZ
+CODE_SMELL
+l	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(Ï·íÌH¬SRMAJORZ
+CODE_SMELL

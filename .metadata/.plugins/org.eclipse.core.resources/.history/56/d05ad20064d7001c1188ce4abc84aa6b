@@ -1,0 +1,24 @@
+package main.java.main;
+
+import main.java.model.Temporada;
+
+public class MainApp {
+
+	public static void main(String[] args) {
+		Temporada temp1 = new Temporada("Temporada1");
+		temp1.annadirCapitulo("Aida");
+		//temp1.eliminarCapitulo("Julia");
+		//temp1.eliminarCapitulo("Aida");
+		//temp1.valorar(5);
+		//temp1.valorar(5);
+		//temp1.valorar(9);
+		//System.out.println(temp1.getNotaMedia());
+		temp1.annadirCapitulo("LOCO");
+		temp1.annadirCapitulo("Yuli");
+		temp1.annadirCapituloDespues("lOCURA", "LOCO");
+		System.out.println(temp1.primerCapituloQueContieneEstaPalabra("Ai"));
+		
+
+	}
+
+}

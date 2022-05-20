@@ -1,0 +1,8 @@
+
+ˆ	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğóüşÿÿÿÿ8ŠÌÇæŠ0HÕQRMINORZ
+CODE_SMELL
+Š
+java:S1128"RRemove this unused import 'javax.xml.transform.TransformerConfigurationException'.(Î¯«¶ûÿÿÿÿ8©ÄòæŠ0HÓQRMINORZ
+CODE_SMELL
+k
+java:S2755f"3Disable access to external entities in XML parsing.(›Ş¢ï8ÈµæŠ0HÒQRBLOCKERZVULNERABILITY

@@ -1,0 +1,13 @@
+package main.java.model;
+
+import java.util.Comparator;
+
+public class ComparadorTemas implements Comparator<Serie> {
+
+	@Override
+	public int compare(Serie o1, Serie o2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

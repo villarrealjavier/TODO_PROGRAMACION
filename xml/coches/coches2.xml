@@ -1,0 +1,21 @@
+<coches>
+	<coche id="001">
+		<marca>Volskwagen</marca>
+		<modelo>Golf </modelo>
+		<motor>1080 Gasolina</motor>
+		
+	</coche>
+
+	<coche id="002">
+			<marca>Nissan</marca>
+			<modelo>Cascai </modelo>
+			<motor>1700 Diesel</motor>
+			
+		</coche>
+		<coche id="003">
+			<marca>Nissan</marca>
+			<modelo>Vanette </modelo>
+			<motor>2400 Diesel</motor>
+			
+		</coche>
+</coches>

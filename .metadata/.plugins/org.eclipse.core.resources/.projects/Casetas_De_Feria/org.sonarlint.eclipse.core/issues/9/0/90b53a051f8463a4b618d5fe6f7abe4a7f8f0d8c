@@ -1,0 +1,26 @@
+
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHVRMINORZ
+CODE_SMELL
+\
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿH VRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ø®¨¾úÿÿÿÿH¢VRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H£VRMINORZ
+CODE_SMELL
+³
+java:S1130"Remove the declaration of thrown exception 'javax.xml.transform.TransformerException', as it cannot be thrown from method's body.(ü‡é²ıÿÿÿÿH¤VRMINORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(ªµˆH¦VRMAJORZ
+CODE_SMELL
+]
+java:S1128"1Remove this unused import 'xml.writer.XMLWriter'.(Ş×ÛĞH­VRMINORZ
+CODE_SMELL
+l	java:S125""<This block of commented-out lines of code should be removed.(Çáõ÷şÿÿÿÿH¯VRMAJORZ
+CODE_SMELL
+^
+java:S1128
+"-Remove this unused import 'xml.model.Caseta'.(Ûœå²ùÿÿÿÿH±VRMINORZ
+CODE_SMELL

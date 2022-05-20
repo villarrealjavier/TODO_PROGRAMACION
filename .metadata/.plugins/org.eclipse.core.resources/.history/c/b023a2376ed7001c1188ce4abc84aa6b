@@ -1,0 +1,9 @@
+package main.java.model;
+
+import java.util.Comparator;
+
+public class ComparadorTemas implements Comparator<Serie> {
+
+	
+
+}

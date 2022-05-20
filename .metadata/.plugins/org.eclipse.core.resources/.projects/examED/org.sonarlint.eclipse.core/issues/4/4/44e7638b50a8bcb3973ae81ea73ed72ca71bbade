@@ -1,0 +1,13 @@
+
+m
+java:S1126\"AReplace this if-then-else statement by a single return statement.(â“—âH°'RMINORZ
+CODE_SMELL
+`
+java:S1066s"/Merge this if statement with the enclosing one.(Ó„³ùÿÿÿÿH®'RMAJORZ
+CODE_SMELL
+r
+java:S1126;"AReplace this if-then-else statement by a single return statement.(ûÈòÓıÿÿÿÿHÃ'RMINORZ
+CODE_SMELL
+s
+java:S3516c"9Refactor this method to not always return the same value.(Àİ¸ßıÿÿÿÿ8¹à§˜‹0HšPRBLOCKERZ
+CODE_SMELL

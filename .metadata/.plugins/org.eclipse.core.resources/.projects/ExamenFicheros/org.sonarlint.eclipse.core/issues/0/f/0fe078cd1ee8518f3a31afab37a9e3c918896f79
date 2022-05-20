@@ -1,0 +1,20 @@
+
+q
+java:S2184J"@Cast one of the operands of this integer division to a "double".(®Éü ÿÿÿÿÿ8éŞŞŞ0HÃYRMINORZBUG
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(†î©Åşÿÿÿÿ8‚»¬ß0H¥ZRMAJORZ
+CODE_SMELL
+]
+java:S14817"*Remove this unused "salir" local variable.(´–ˆ‡8‡òÔß0H¼ZRMINORZ
+CODE_SMELL
+q
+java:S1155?">Use isEmpty() to check whether the collection is empty or not.(ŒÑ®8ê²íß0HÕZRMINORZ
+CODE_SMELL
+‘
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(°©ªúÿÿÿÿ8çÕßß0HÃZRMINORZ
+CODE_SMELL
+p
+java:S1854H"=Remove this useless assignment to local variable "resultado".(ÄÜÆæ8éŞŞŞ0HÄYRMAJORZ
+CODE_SMELL
+a
+java:S1068".Remove this unused "valoracion" private field.(ƒ”É‰8÷€ÑŞ0H½YRMAJORZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+
+c
+java:S1068"+Remove this unused "city_id" private field.(à¥©áøÿÿÿÿ8š»¡‰0HÔURMAJORZ
+CODE_SMELL
+F
+java:S1700"Rename field "city"(“øÌà8¾°¥ ‰0HÖURMAJORZ
+CODE_SMELL
+‰	java:S116"RRename this field "city_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¥©áøÿÿÿÿ8¾°¥ ‰0H×URMINORZ
+CODE_SMELL
+[
+java:S1068"(Remove this unused "city" private field.(“øÌà8š»¡‰0HØURMAJORZ
+CODE_SMELL
+_
+java:S1068",Remove this unused "listCity" private field.(¬ôÉ¾8š»¡‰0HÚURMAJORZ
+CODE_SMELL

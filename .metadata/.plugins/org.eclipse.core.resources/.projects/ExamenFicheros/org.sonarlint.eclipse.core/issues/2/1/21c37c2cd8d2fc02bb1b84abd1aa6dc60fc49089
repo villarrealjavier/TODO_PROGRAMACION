@@ -1,0 +1,10 @@
+
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öö‚§üÿÿÿÿ8¾¾©á0H„]RMINORZ
+CODE_SMELL
+c
+java:S1172}"+Remove this unused method parameter "tema".(è¬âØşÿÿÿÿ8š‘Ş0H‚]RMAJORZ
+CODE_SMELL
+
+java:S1192'"TDefine a constant instead of duplicating this literal "No existe esa serie" 3 times.(²÷Æøÿÿÿÿ8¾¾©á0H†]RCRITICALZ
+CODE_SMELL

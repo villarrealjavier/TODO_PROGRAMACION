@@ -1,0 +1,114 @@
+package main.java.model;
+
+import java.util.HashMap;
+import java.util.Objects;
+
+public class Serie {
+
+	private static final Integer ANNO_MINIMO=1900;
+	private String nombreSerie;
+	private Integer anno;
+	private HashMap<String, Serie> mapSeries;
+	public Serie(String nombre, Integer anno, Tema tema) {
+		if (anno>ANNO_MINIMO) {
+			this.nombreSerie=nombre;
+			this.anno=anno;
+			
+		}else {
+			throw new SerieException("No se puede crear la serie");
+		}
+	}
+	/** Añade una serie a la lista de series. Si existe una serie con el mismo nombre lanza una excpetion
+	 * 
+	 * @param serie
+	 * @throws SerieException
+	 */
+	public void annadirSerie(String nombreSerie, int anno, Tema tema) throws SerieException {
+		if (mapSeries.containsKey(nombreSerie)) {
+			throw new SerieException("Ya existe esa serie");
+		}
+		Serie serie = new Serie(nombreSerie, anno, tema);
+		mapSeries.put(serie.getNombreSerie(), serie);
+	}
+	
+	
+	/** Añade una temporada a la Serie cuyo nombre se le pasa por argumento, si no existe
+	 * la Serie lanza una exception
+	 * @param serie
+	 * @throws SerieException
+	 */
+	public void annadirTemporada(String nombreSerie, String temporada) throws SerieException {
+		if (!mapSeries.containsKey(nombreSerie)) {
+			throw new SerieException("No existe esa serie");
+		}
+		Serie serie = mapSeries.get(nombreSerie);
+		serie.annadirTemporada(temporada);
+	}
+	
+	public void annadirCapituloTemporada(String nombreSerie, String temporada, String capitulo) throws SerieException {
+		if (!mapSeries.containsKey(nombreSerie)) {
+			throw new SerieException("No existe esa serie");
+		}
+		Serie serie = mapSeries.get(nombreSerie);
+		serie.annadirCapituloTemporada(temporada, capitulo);
+
+	}
+	public void valorarTemporada(String nombreSerie, String temporada, int valoracion) throws SerieException {
+		if (!mapSeries.containsKey(nombreSerie)) {
+			throw new SerieException("No existe esa serie");
+		}
+		Serie serie = mapSeries.get(nombreSerie);
+		serie.valorarTemporada(temporada, valoracion);
+	}
+	public void valorarTemporadas(String nombre, Integer valoracion) {
+		
+	}
+	public String listarTemporadasPorNotaMedia() {
+		
+		return null;
+	}
+	public String listarTemporadasPorNumeroDeCapitulos() {
+		
+		return null;
+	}
+	public String getNombreSerie() {
+		return nombreSerie;
+	}
+	public void setNombreSerie(String nombreSerie) {
+		this.nombreSerie = nombreSerie;
+	}
+	public Integer getAnno() {
+		return anno;
+	}
+	public void setAnno(Integer anno) {
+		this.anno = anno;
+	}
+	public static Integer getAnnoMinimo() {
+		return ANNO_MINIMO;
+	}
+	
+	public Integer numeroTemporadas() {
+		
+		return null;
+	}
+	
+	@Override
+	public String toString() {
+		return "Serie [nombreSerie=" + nombreSerie + ", anno=" + anno + "]";
+	}
+	@Override
+	public int hashCode() {
+		return Objects.hash(anno, nombreSerie);
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Serie other = (Serie) obj;
+		return Objects.equals(anno, other.anno) && Objects.equals(nombreSerie, other.nombreSerie);
+	}
+}

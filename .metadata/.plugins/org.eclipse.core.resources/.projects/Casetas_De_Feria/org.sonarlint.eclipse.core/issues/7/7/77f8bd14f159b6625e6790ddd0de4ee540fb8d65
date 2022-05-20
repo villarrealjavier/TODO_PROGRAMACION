@@ -1,0 +1,80 @@
+
+F
+java:S1220""Move this file to a named package.H·XRMINORZ
+CODE_SMELL
+p	java:S106U"9Replace this use of System.out or System.err by a logger.(¶†Óıÿÿÿÿ8Æ­¾¶0H¸XRMAJORZ
+CODE_SMELL
+i	java:S106\"9Replace this use of System.out or System.err by a logger.(Ë–”’úÿÿÿÿH¹XRMAJORZ
+CODE_SMELL
+`
+java:S3740w"/Provide the parametrized type for this generic.(Ò ¢üıÿÿÿÿHºXRMAJORZ
+CODE_SMELL
+a
+java:S2864–"4Iterate over the "entrySet" instead of the "keySet".(±æšíH»XRMAJORZ
+CODE_SMELL
+f
+java:S2864×"4Iterate over the "entrySet" instead of the "keySet".(•ŞˆıÿÿÿÿH¼XRMAJORZ
+CODE_SMELL
+~
+java:S1192®"IDefine a constant instead of duplicating this literal "DISTRITO" 3 times.(éÍ·ÿÿÿÿÿH½XRCRITICALZ
+CODE_SMELL
+i	java:S106d"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHÁXRMAJORZ
+CODE_SMELL
+‚	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Òå“ıÿÿÿÿHÂXRMINORZ
+CODE_SMELL
+q
+java:S18548"@Remove this useless assignment to local variable "ListaCasetas".(©É†­úÿÿÿÿHÃXRMAJORZ
+CODE_SMELL
+i	java:S106A"9Replace this use of System.out or System.err by a logger.(úˆªÓüÿÿÿÿHÄXRMAJORZ
+CODE_SMELL
+~
+java:S1192£"IDefine a constant instead of duplicating this literal "FAMILIAR" 3 times.(ëéçíıÿÿÿÿHÅXRCRITICALZ
+CODE_SMELL
+i	java:S106l"9Replace this use of System.out or System.err by a logger.(úˆªÓüÿÿÿÿHÉXRMAJORZ
+CODE_SMELL
+T
+java:S1125à"'Remove the unnecessary boolean literal.(¤ÊÉHÊXRMINORZ
+CODE_SMELL
+‚	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’è£¶üÿÿÿÿHÌXRMINORZ
+CODE_SMELL
+i	java:S106F"9Replace this use of System.out or System.err by a logger.(Ë–”’úÿÿÿÿHÍXRMAJORZ
+CODE_SMELL
+i	java:S106I"9Replace this use of System.out or System.err by a logger.(‰£ÀéıÿÿÿÿHÎXRMAJORZ
+CODE_SMELL
+‚	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’è£¶üÿÿÿÿHÏXRMINORZ
+CODE_SMELL
+e	java:S106Ğ"9Replace this use of System.out or System.err by a logger.( ÀªğHĞXRMAJORZ
+CODE_SMELL
+r	java:S112æ"FDefine and throw a dedicated exception instead of using a generic one.(ÈÔ¡‡HÑXRMAJORZ
+CODE_SMELL
+	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©É†­úÿÿÿÿHÒXRMINORZ
+CODE_SMELL
+‚	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş½îûÿÿÿÿHÓXRMINORZ
+CODE_SMELL
+‚	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’è£¶üÿÿÿÿHÔXRMINORZ
+CODE_SMELL
+k	java:S899}"BDo something with the "boolean" value returned by "createNewFile".(ôü¿ŸÿÿÿÿÿHÕXRMINORZBUG
+e	java:S106³"9Replace this use of System.out or System.err by a logger.(Ë£—ÏHÖXRMAJORZ
+CODE_SMELL
+r	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(’ÖŸªH×XRMAJORZ
+CODE_SMELL
+e	java:S106¾"9Replace this use of System.out or System.err by a logger.(Ë£—ÏHØXRMAJORZ
+CODE_SMELL
+i	java:S106^"9Replace this use of System.out or System.err by a logger.(à¯ıÊúÿÿÿÿHÙXRMAJORZ
+CODE_SMELL
+x	java:S128Z"LEnd this switch case with an unconditional break, return or throw statement.(ÒñŠ{HÚXRBLOCKERZ
+CODE_SMELL
+‚	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¡ÄõıÿÿÿÿHÛXRMINORZ
+CODE_SMELL
+‚	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’è£¶üÿÿÿÿHÜXRMINORZ
+CODE_SMELL
+‚
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’ÖŸªHİXRCRITICALZ
+CODE_SMELL
+Y
+java:S1125å"'Remove the unnecessary boolean literal.(ÚÚ§«ÿÿÿÿÿHäXRMINORZ
+CODE_SMELL
+}	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌßåÒHçXRMINORZ
+CODE_SMELL
+}	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÇ¡–HèXRMINORZ
+CODE_SMELL

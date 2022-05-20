@@ -1,0 +1,11 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(‹âî˜şÿÿÿÿ8€ŠãÂŠ0HìQRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¸Ö–øÿÿÿÿ8Åó¤’‹0HêQRMAJORZ
+CODE_SMELL
+m
+java:S1854":Remove this useless assignment to local variable "reader".(ƒÙ–û8ˆ£’‹0HëQRMAJORZ
+CODE_SMELL
+^
+java:S1481"+Remove this unused "reader" local variable.(ƒÙ–û8ˆ£’‹0HèQRMINORZ
+CODE_SMELL

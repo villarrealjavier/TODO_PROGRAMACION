@@ -1,0 +1,46 @@
+package main.java.model;
+
+import java.util.Map;
+
+public class Catalogo {
+	private Map<String,Serie> mapSeries;
+	
+	
+	public Catalogo() {
+		
+	}
+	
+	public void addSerie(String nombre, Integer anno, Tema tema) {
+		
+	}
+	public void addTemporada(String nombre, String cadena) {
+		
+	}
+	
+	public void annadirCapituloTemporada(String nombreSerie, String temporada, String capitulo) throws SerieException {
+		if (!mapSeries.containsKey(nombreSerie)) {
+			throw new SerieException("No existe esa serie");
+		}
+		Serie serie = mapSeries.get(nombreSerie);
+		serie.annadirCapituloTemporada(temporada, capitulo);
+
+	}
+	
+	public void valorarTemporadas(String nombre, String cadena, Integer valoracion) {
+		
+	}
+	public Integer numeroDeTemporadasDeUnaSerie(String nombre) {
+		
+		
+		return null;
+	}
+	public void modificarTema(String nombre, Tema temaNuevo) {
+		
+	}
+	
+	public String listadoOrdenadoDeSeriesDeUnTema(Tema tema) {
+		
+		
+		return null;
+	}
+}

@@ -1,0 +1,33 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ç‰®¬şÿÿÿÿH»QRMAJORZ
+CODE_SMELL
+l
+java:S2864O"4Iterate over the "entrySet" instead of the "keySet".(ä¥õşÿÿÿÿ8ìÜı‰0H¼QRMAJORZ
+CODE_SMELL
+l
+java:S2864]"4Iterate over the "entrySet" instead of the "keySet".(ä™°¤şÿÿÿÿ8´‘ş‰0H½QRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(»éî ÿÿÿÿÿ8ıïãŸ‰0H¾QRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(¼¤£‰8ıïãŸ‰0H¿QRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Äñåú8ıïãŸ‰0HÀQRMAJORZ
+CODE_SMELL
+q
+java:S2677'"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡HÁQRMAJORZBUG
+z
+java:S2095&"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Öæ½Ö8´‘ş‰0HÂQRBLOCKERZBUG
+n	java:S125+"<This block of commented-out lines of code should be removed.(’èÀş8´‘ş‰0HÃQRMAJORZ
+CODE_SMELL
+m	java:S125<"<This block of commented-out lines of code should be removed.(Æ¹¡8ıïãŸ‰0HÄQRMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ıïãŸ‰0HÅQRMAJORZ
+CODE_SMELL
+Ÿ
+java:S1130i"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÍöÏñ8½Ñÿ‰0HÆQRMINORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(éÅÖ­8´‘ş‰0HÈQRMAJORZ
+CODE_SMELL
+{
+java:S3824n"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(Åô¾ç8´‘ş‰0HÉQRMAJORZ
+CODE_SMELL

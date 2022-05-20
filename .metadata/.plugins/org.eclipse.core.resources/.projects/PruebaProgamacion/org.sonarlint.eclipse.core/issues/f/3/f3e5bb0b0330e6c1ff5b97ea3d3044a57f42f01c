@@ -1,0 +1,28 @@
+
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡HéRMINORZ
+CODE_SMELL
+x
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘HêRMAJORZ
+CODE_SMELL
+s
+java:S20952"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(´ÓñÊHëRBLOCKERZBUG
+l	java:S125"<This block of commented-out lines of code should be removed.( ‚©¥úÿÿÿÿHìRMAJORZ
+CODE_SMELL
+u
+java:S1854#"DRemove this useless assignment to local variable "numerosRepetidos".(«Ó¹üüÿÿÿÿHòRMAJORZ
+CODE_SMELL
+f
+java:S1481#"5Remove this unused "numerosRepetidos" local variable.(«Ó¹üüÿÿÿÿHóRMINORZ
+CODE_SMELL
+m
+java:S1075."ARefactor your code to get this URI from a customizable parameter.(ò¶HõRMINORZ
+CODE_SMELL
+q
+java:S26773"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡HöRMAJORZBUG
+d	java:S106J"9Replace this use of System.out or System.err by a logger.(‹ÜÛ‹H÷RMAJORZ
+CODE_SMELL
+S	java:S108K")Either remove or fill this block of code.(Û°¹OHøRMAJORZ
+CODE_SMELL
+a
+java:S1144""5Remove this unused private "numerosRepetidos" method.(â²æêHùRMAJORZ
+CODE_SMELL

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "marca": "Opel",
+    "modelo": "Megane",
+    "motor": "Diesel"
+  },
+  {
+    "id": 1,
+    "marca": "Lamborghini",
+    "modelo": "Aventador",
+    "motor": "Diesel"
+  },
+  {
+    "id": 1,
+    "marca": "Seat",
+    "modelo": "Panda",
+    "motor": "Diesel"
+  }
+]

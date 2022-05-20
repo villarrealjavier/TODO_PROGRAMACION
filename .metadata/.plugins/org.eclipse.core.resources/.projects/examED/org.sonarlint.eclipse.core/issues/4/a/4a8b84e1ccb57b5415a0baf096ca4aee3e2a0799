@@ -1,0 +1,8 @@
+
+g
+java:S1066p"/Merge this if statement with the enclosing one.(Ó„³ùÿÿÿÿ8½Ñş–‹0H³QRMAJORZ
+CODE_SMELL
+r
+java:S2259;"AA "NullPointerException" could be thrown; "dni" is nullable here.(Èÿøçúÿÿÿÿ8ËÀè—‹0HµQRMAJORZBUG
+r
+java:S2259Q"AA "NullPointerException" could be thrown; "dni" is nullable here.(Èÿøçúÿÿÿÿ8Ö‡²—‹0H¸QRMAJORZBUG

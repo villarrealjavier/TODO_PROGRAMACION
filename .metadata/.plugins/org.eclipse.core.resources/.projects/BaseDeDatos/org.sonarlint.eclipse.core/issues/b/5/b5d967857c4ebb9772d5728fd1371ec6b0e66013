@@ -1,0 +1,17 @@
+
+g
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8 ¨Èµ0H£WRMINORZ
+CODE_SMELL
+g
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8©¬®µ0HÓVRMINORZ
+CODE_SMELL
+v
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(£è†8Æ€…³0HéURBLOCKERZBUG
+r
+java:S1118":Add a private constructor to hide the implicit public one.(’¾Æıÿÿÿÿ8©¬®µ0HÎVRMAJORZ
+CODE_SMELL
+v
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ßÚ=8ôÑ”µ0H¹VRBLOCKERZBUG
+z
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ğ—Çıÿÿÿÿ8Æ€…³0HèURBLOCKERZBUG
+r	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8Ùì¿µ0H”WRMINORZBUG

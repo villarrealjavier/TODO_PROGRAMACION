@@ -1,0 +1,22 @@
+
+v
+java:S2095/"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÏÍŒæ8ö†‰Á‹0HÁSRBLOCKERZBUG
+v
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÏÍŒæ8ô“Ž¾‹0H¼RRBLOCKERZBUG
+g
+java:S3740%"/Provide the parametrized type for this generic.(ˆ£ˆÜþÿÿÿÿ8ô“Ž¾‹0H»RRMAJORZ
+CODE_SMELL
+i
+java:S1854"6Remove this useless assignment to local variable "fr".(ÏÍŒæ8ô“Ž¾‹0H½RRMAJORZ
+CODE_SMELL
+r	java:S899"BDo something with the "boolean" value returned by "createNewFile".(»¨šãøÿÿÿÿ8ô“Ž¾‹0H¾RRMINORZBUG
+i
+java:S1854/"6Remove this useless assignment to local variable "fr".(ÏÍŒæ8ö†‰Á‹0HÂSRMAJORZ
+CODE_SMELL
+Z
+java:S1481"'Remove this unused "fr" local variable.(ÏÍŒæ8ô“Ž¾‹0H¿RRMINORZ
+CODE_SMELL
+r	java:S899."BDo something with the "boolean" value returned by "createNewFile".(»¨šãøÿÿÿÿ8ö†‰Á‹0HÃSRMINORZBUG
+Z
+java:S1481/"'Remove this unused "fr" local variable.(ÏÍŒæ8ö†‰Á‹0HÄSRMINORZ
+CODE_SMELL

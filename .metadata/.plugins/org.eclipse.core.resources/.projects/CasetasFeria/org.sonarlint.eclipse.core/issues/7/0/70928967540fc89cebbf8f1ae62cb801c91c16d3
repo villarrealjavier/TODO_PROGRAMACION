@@ -1,0 +1,10 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.( ‡ìˆ8§ÕäŠ0HÁRRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(«‘ª¹ûÿÿÿÿ8ÿº•¾‹0HÍRRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µ„ò8™——¾‹0HëRRMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÿº•¾‹0HÖRRMINORZ
+CODE_SMELL

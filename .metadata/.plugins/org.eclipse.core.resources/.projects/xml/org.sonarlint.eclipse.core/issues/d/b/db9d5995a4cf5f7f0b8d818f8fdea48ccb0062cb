@@ -1,0 +1,28 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(óÌË­øÿÿÿÿ8é¦ÀŠ0H‚#RMAJORZ
+CODE_SMELL
+`	java:S1088")Either remove or fill this block of code.(ÊÊÆƒüÿÿÿÿ8ŸúÀŠ0Hï"RMAJORZ
+CODE_SMELL
+w
+java:S2147<"DCombine this catch with the one at line 56, which has the same body.(ï­£Ä8ŸúÀŠ0Hí"RMINORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒ±®Ë8‘ùÁŠ0Hš#RMAJORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(áä¾¤8‘ùÁŠ0H›#RMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(íñ§Ú8Ôó„ÂŠ0H#RMAJORZ
+CODE_SMELL
+q
+java:S2130-"9Use "Integer.parseInt" for this string-to-int conversion.(¥À‹ùÿÿÿÿ8ÿŒÂŠ0Hª#RMINORZ
+CODE_SMELL
+[	java:S108:")Either remove or fill this block of code.(Ã‡²ö8Ù¤„ÀŠ0HÕ"RMAJORZ
+CODE_SMELL
+[	java:S108<")Either remove or fill this block of code.(ï­£Ä8ŸúÀŠ0Hğ"RMAJORZ
+CODE_SMELL
+w
+java:S2147:"DCombine this catch with the one at line 56, which has the same body.(Ã‡²ö8ŸúÀŠ0Hë"RMINORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(Ó¶÷µûÿÿÿÿ8Ôó„ÂŠ0HŸ#RMAJORZ
+CODE_SMELL
+j	java:S106,"9Replace this use of System.out or System.err by a logger.(—Ø†(8É§ŞÂŠ0Hô#RMAJORZ
+CODE_SMELL

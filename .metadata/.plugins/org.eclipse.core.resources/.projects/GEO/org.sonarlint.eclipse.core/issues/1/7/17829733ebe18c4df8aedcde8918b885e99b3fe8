@@ -1,0 +1,23 @@
+
+h
+java:S1854"6Remove this useless assignment to local variable "cl".(“‹±68êÜ‹¿Š0H­!RMAJORZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "col".(îÏ·´ûÿÿÿÿ8êÜ‹¿Š0H¬!RMAJORZ
+CODE_SMELL
+b
+java:S1135
+"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHü RINFOZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(’ø¨ 8À¦·¡‰0Hö RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(²¼Ë8êÜ‹¿Š0H°!RMAJORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "col" local variable.(îÏ·´ûÿÿÿÿ8êÜ‹¿Š0H±!RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ÛÈ©„8êÜ‹¿Š0H³!RMAJORZ
+CODE_SMELL
+Y
+java:S1481"'Remove this unused "cl" local variable.(“‹±68êÜ‹¿Š0H®!RMINORZ
+CODE_SMELL

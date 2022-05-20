@@ -1,0 +1,14 @@
+package main.java.model;
+
+import java.util.Map;
+
+public class Catalogo {
+	private Map<String,Serie> mapSeries;
+	
+	
+	public Catalogo() {
+		
+	}
+	
+	public void addSerie(String nombre, Integer anno, Tema tema) {
+}

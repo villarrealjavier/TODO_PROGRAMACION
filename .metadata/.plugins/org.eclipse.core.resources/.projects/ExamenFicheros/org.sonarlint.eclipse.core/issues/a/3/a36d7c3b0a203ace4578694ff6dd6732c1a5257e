@@ -1,0 +1,20 @@
+
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËüŞ8’‡Éá0Hà]RMINORZ
+CODE_SMELL
+s	java:S125*"<This block of commented-out lines of code should be removed.(îËÆ›şÿÿÿÿ8Óşà0H«\RMAJORZ
+CODE_SMELL
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(å®­¶ÿÿÿÿÿ8Áã“à0H«[RMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËüŞ8ù’à0H¥[RMINORZ
+CODE_SMELL
+i
+java:S1172)"6Remove this unused method parameter "nombreTemporada".(Ü¿Ğ¶8Óşà0H©\RMAJORZ
+CODE_SMELL
+¥
+java:S4144l"mUpdate this method so that its implementation is not identical to "listadoTemporadasPorNotaMedia" on line 97.(¸¢ó°ûÿÿÿÿ8´Ã½á0H¦]RMAJORZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8¥ª—â0Hì^RMINORZ
+CODE_SMELL

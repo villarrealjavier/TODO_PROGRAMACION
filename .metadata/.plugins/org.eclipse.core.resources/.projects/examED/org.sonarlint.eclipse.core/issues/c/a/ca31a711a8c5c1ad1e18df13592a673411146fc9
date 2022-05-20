@@ -1,0 +1,62 @@
+
+
+java:S1192"FDefine a constant instead of duplicating this literal "MUJER" 5 times.(ØÎ¹üÿÿÿÿ8¬üï–‹0H‘?RCRITICALZ
+CODE_SMELL
+o
+java:S1854è"6Remove this useless assignment to local variable "p1".(¬áºóøÿÿÿÿ8ô“˜‹0HšJRMAJORZ
+CODE_SMELL
+	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úğàº8¶ãµ–‹0HÀ;RMINORZ
+CODE_SMELL
+`
+java:S1481è"'Remove this unused "p1" local variable.(¬áºóøÿÿÿÿ8¹Ü˜‹0H°KRMINORZ
+CODE_SMELL
+€	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸüË¡8¶Š˜‹0HöNRMINORZ
+CODE_SMELL
+ƒ
+java:S1192"HDefine a constant instead of duplicating this literal "Javier" 37 times.(³çß€úÿÿÿÿ8¥ü·•‹0H´*RCRITICALZ
+CODE_SMELL
+†	java:S100ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü÷—ğúÿÿÿÿ8ô“˜‹0HœJRMINORZ
+CODE_SMELL
+Z
+java:S1481v"'Remove this unused "p2" local variable.(´¹§‰8¥ü·•‹0H”,RMINORZ
+CODE_SMELL
+‚
+java:S1192"GDefine a constant instead of duplicating this literal "Villa" 31 times.(Ş®çìşÿÿÿÿ8¥ü·•‹0Hô;RCRITICALZ
+CODE_SMELL
+a	java:S108¸")Either remove or fill this block of code.(¢Ì–Œùÿÿÿÿ8Ïøš˜‹0HßMRMAJORZ
+CODE_SMELL
+`	java:S108;")Either remove or fill this block of code.(¢Ì–Œùÿÿÿÿ8ô“˜‹0H™JRMAJORZ
+CODE_SMELL
+…
+java:S1192("JDefine a constant instead of duplicating this literal "295812610" 5 times.(˜×Óÿÿÿÿÿ8¬üï–‹0H•?RCRITICALZ
+CODE_SMELL
+o
+java:S1854é"6Remove this useless assignment to local variable "p2".(½Œã´úÿÿÿÿ8ô“˜‹0H›JRMAJORZ
+CODE_SMELL
+_
+java:S1481u"'Remove this unused "p1" local variable.(Î»²şÿÿÿÿ8‹²’•‹0H¨)RMINORZ
+CODE_SMELL
+`	java:S108.")Either remove or fill this block of code.(¢Ì–Œùÿÿÿÿ8ÚäÈ•‹0H«,RMAJORZ
+CODE_SMELL
+†
+java:S1192"KDefine a constant instead of duplicating this literal "29581261H" 30 times.(³çß€úÿÿÿÿ8¥ü·•‹0H»*RCRITICALZ
+CODE_SMELL
+ƒ
+java:S1192"HDefine a constant instead of duplicating this literal "HOMBRE" 29 times.(Ş®çìşÿÿÿÿ8£ÌÊ•‹0H×,RCRITICALZ
+CODE_SMELL
+n
+java:S1854u"6Remove this useless assignment to local variable "p1".(Î»²şÿÿÿÿ8ˆË‡–‹0H£4RMAJORZ
+CODE_SMELL
+i
+java:S1854v"6Remove this useless assignment to local variable "p2".(´¹§‰8´À‹–‹0Hœ6RMAJORZ
+CODE_SMELL
+`
+java:S1481é"'Remove this unused "p2" local variable.(½Œã´úÿÿÿÿ8¹Ü˜‹0H²KRMINORZ
+CODE_SMELL
+a	java:S108«")Either remove or fill this block of code.(¢Ì–Œùÿÿÿÿ8î²“˜‹0HÉLRMAJORZ
+CODE_SMELL
+`	java:S108F")Either remove or fill this block of code.(¢Ì–Œùÿÿÿÿ8‹ú—‹0H¿BRMAJORZ
+CODE_SMELL
+†
+java:S1192"KDefine a constant instead of duplicating this literal "Villarreal" 4 times.(³çß€úÿÿÿÿ8·Í——‹0H§@RCRITICALZ
+CODE_SMELL
